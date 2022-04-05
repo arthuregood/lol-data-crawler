@@ -1,5 +1,14 @@
 # League of Legends Data Crawler
 
+
+## Requirements
+
+Install using pipenv for enviroment requirements
+```
+$ pipenv install
+```
+
+## Bot Goals
 Development of a data crawler script to colect and mine League of Legends database from https://lol.fandom.com/
 
 - Includes all general matches from all global leagues and it's informations - such as winners and losers, picks and bans, players, match length, gold, damage and lots of minor data.
